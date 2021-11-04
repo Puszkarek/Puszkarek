@@ -33,8 +33,8 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
 	languages = ["HTML", "CSS", "JavaScript", "Typescript"];
-	frameworks = ["Angular", "React", "Next"];
-	technologies = ["Node", "Firebase", "Sass"];
+	frameworks = ["Angular", "React", "Next", "Cypress"];
+	technologies = ["Node", "Firebase", "Sass", "RxJs", "Jasmine"];
 }
 
 ```
