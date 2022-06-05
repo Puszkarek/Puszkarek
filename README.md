@@ -28,7 +28,7 @@ import Developer from "Puszkarek";
 class AboutMe extends Developer {
 	name = "Guilherme Puszkarek";
 	specialization = "Web Developer";
-	country = "Local";
+	country = "Brazil";
 }
 
 class Skills extends Developer {
