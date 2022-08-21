@@ -31,10 +31,10 @@ class AboutMe extends Developer {
 	country = "Brazil";
 }
 
-class Skills extends Developer {
-	languages = ["HTML", "CSS", "JavaScript", "Typescript"];
-	frameworks = ["Angular", "React", "Next", "Cypress"];
-	technologies = ["Node", "Firebase", "Sass", "RxJs", "Jasmine"];
+class Skills extends AboutMe {
+	languages = ["HTML", "CSS", "Sass", "JavaScript", "Typescript"];
+	frameworks = ["Angular", "React", "Next"];
+	technologies = ["Node", "Firebase", "RxJs", "Lodash", "FP-TS", "Cypress", "Jasmine"];
 }
 
 ```
