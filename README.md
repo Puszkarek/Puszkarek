@@ -11,12 +11,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=51F7F5&lines=%F0%9F%9A%80+Welcome+to+my+profile)](https://git.io/typing-svg)
 
 
-<div align="center">
-
-[![Visits Badge](https://badges.pufler.dev/visits/puszkarek/puszkarek)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/years/puszkarek)](https://badges.pufler.dev)
-
-</div>
-
 ------------
 
 ##  💻
