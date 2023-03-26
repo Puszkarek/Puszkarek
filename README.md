@@ -11,9 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=51F7F5&lines=%F0%9F%9A%80+Welcome+to+my+profile)](https://git.io/typing-svg)
 
 
-------------
 
-##  💻
 
 ```js
 
@@ -21,15 +19,17 @@ import Developer from "Puszkarek";
 
 class AboutMe extends Developer {
 	name = "Guilherme Puszkarek";
-	specialization = "Web Developer";
+	specialization = "Web Application Developer";
 	country = "Brazil";
+	caffeineLevel = "DANGER",
+	sleepLevel = -1
 }
 
 class Skills extends AboutMe {
-	languages = ["HTML", "CSS", "JavaScript", "Typescript"];
-	frameworks = ["Angular", "React", "Next.js"];
-	technologies = ["Sass", "Node.js", "Firebase", "Express", "ESLint", "Prettier"];
-	libraries=["RxJs", "Lodash", "fp-ts", "immutable"];
+	languages = ["HTML", "CSS", "JavaScript", "Typescript", "Motoko"];
+	frameworks = ["Angular",  "Next.js","Express"];
+	technologies = [ "Node.js", "PNPM"];
+	libraries=["RxJs", "Sass", "React", "Lodash", "fp-ts", "immutable"];
 	testing = ["Cypress", "Jasmine", "Jest", "Karma"];
 }
 
